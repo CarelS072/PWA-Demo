@@ -1,0 +1,13 @@
+{
+  "name": "PWA-Demo",
+  "short_name": "PWA-Demo",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "description": "A demo on PWA.",
+  "icons": [{
+    "src": "icons8-indoor-navigation-64",
+    "sizes": "64x64",
+    "type": "image/png"
+  }]
+}
