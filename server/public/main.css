@@ -1,9 +1,12 @@
   /* Need to review: https://materializecss.com/getting-started.html */
 
 body {
-  padding: 2em;
+  padding: 4em;
   margin-top: 0.5em;
   /* background-color: aqua; */
+  border-style: solid;
+  border-width: 1px;
+
 }
 
 .borders {
@@ -22,8 +25,20 @@ body {
   border-style: solid;
   border-width: 2px;
   background-color: blue;
+  height: 400px;
+  width: 80%;
 } 
 
+  /* Camera styling */
+.camera {
+  width: 80%;
+  height: 10% ;
+  border-style: solid;
+  border-width: 2px;
+  background-color: red;
+  text-align: left;
+  padding: 10px;
+} 
 
   /* Loading animation from https://loading.io/css/ */
 

@@ -6,8 +6,21 @@
   "background_color": "#fff",
   "description": "A demo on PWA.",
   "icons": [{
-    "src": "icons8-indoor-navigation-64",
+    "src": "/icons/icons8-indoor-navigation-64",
     "sizes": "64x64",
     "type": "image/png"
-  }]
+  },{
+    "src": "/icons/shopping_bag_24.png",
+    "sizes": "24x24",
+    "type": "image/png"
+  },{
+    "src": "/icons/shopping_bag_48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  },{
+    "src": "/icons/icons8-indoor-navigation-64",
+    "sizes": "64x64",
+    "type": "image/png"
+  }
+]
 }

@@ -9,10 +9,7 @@ class App extends React.Component {
 
     <Router>
       <React.Fragment>
-
-        <h1>This is App and should be removed soon</h1>
-
-        <Route path='/' component={Main} />
+       <Route path='/' component={Main} />
       </React.Fragment>
 
      </Router>
